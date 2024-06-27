@@ -1,6 +1,6 @@
 ## I really hate Alura 
 
-<!--
+![](https://static.wikia.nocookie.net/chibirobo/images/e/ed/Telly_Actual_Size.png/revision/latest?cb=20110415225728)
 **DanielSanders360/DanielSanders360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
